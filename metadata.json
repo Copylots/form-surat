@@ -1,0 +1,6 @@
+{
+  "name": "Pembuat Surat PDF",
+  "description": "Aplikasi pembuat dokumen surat dan proposal PDF dengan tanda tangan langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
